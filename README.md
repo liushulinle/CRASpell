@@ -8,7 +8,8 @@ The code for our ACL2022 findings paper: CRACSpell: A Contextual Typo Robust App
 
 # 2. Instructions
  ```bash
-Step1: Download the pretrained cBERT from https://drive.google.com/file/d/1cqSTpn7r9pnDcvMoM3BbX1X67JsPdZ8_/view?usp=sharing (our previous work), and save it in ./datas/init_bert/cbert
+Step1: Download the pretrained cBERT from https://drive.google.com/file/d/1cqSTpn7r9pnDcvMoM3BbX1X67JsPdZ8_/view?usp=sharing (our previous work), 
+and save it in ./datas/init_bert/cbert
 
 Step2: Run the training script: sh start_train.sh
        The best model will be saved when it is finished.
