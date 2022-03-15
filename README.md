@@ -1,5 +1,5 @@
-# CRACSpell
-The code for our ACL2022 findings paper: CRACSpell: A Contextual Typo Robust Approach with Copy Mechanism to Improve Chinese Spelling Correction
+# CRASpell
+The code for our ACL2022 findings paper: CRASpell: A Contextual Typo Robust Approach to Improve Chinese Spelling Correction
 
 # 1. Requirements
    -python 3.7
