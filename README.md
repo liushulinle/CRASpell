@@ -1,5 +1,5 @@
 # CRASpell
-Source code for the paper "CRASpell: A Contextual Typo Robust Approach to Improve Chinese Spelling Correction" in ACL2022 findings.
+Source code for the paper "CRASpell: A Contextual Typo Robust Approach to Improve Chinese Spelling Correction" in ACL2022 findings https://aclanthology.org/2022.findings-acl.237.pdf .
 
 # 1. Requirements
    -python 3.7
